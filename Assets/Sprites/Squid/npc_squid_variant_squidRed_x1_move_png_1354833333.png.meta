@@ -1,0 +1,1272 @@
+fileFormatVersion: 2
+guid: 7d32acacc93d4774da1b32326d0011d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8616202640194511710
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_0
+  - first:
+      213: -581162357551008428
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_1
+  - first:
+      213: 5471650376468039280
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_2
+  - first:
+      213: 959328519995480169
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_3
+  - first:
+      213: 3356369662653852572
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_4
+  - first:
+      213: 745483015123231891
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_5
+  - first:
+      213: -3366518287003641082
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_6
+  - first:
+      213: -7995265612482050069
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_7
+  - first:
+      213: -5083249032499865229
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_8
+  - first:
+      213: 1724396352344858329
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_9
+  - first:
+      213: 3419405193538229947
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_10
+  - first:
+      213: -2191900449556588813
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_11
+  - first:
+      213: -5880265356273054590
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_12
+  - first:
+      213: -5922410809502574915
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_13
+  - first:
+      213: 8416639651230506764
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_14
+  - first:
+      213: 494054824087426653
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_15
+  - first:
+      213: 3481628511568799982
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_16
+  - first:
+      213: 5884446293918374129
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_17
+  - first:
+      213: -5909728427349670855
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_18
+  - first:
+      213: 6870292644208012246
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_19
+  - first:
+      213: -8960414845959228852
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_20
+  - first:
+      213: -1683068112683764728
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_21
+  - first:
+      213: -1626783731430107429
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_22
+  - first:
+      213: -8099347933651986684
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_23
+  - first:
+      213: 2030782920851406974
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_24
+  - first:
+      213: -7859753613824043948
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_25
+  - first:
+      213: 4183696076062539753
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_26
+  - first:
+      213: 1584335263824681540
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_27
+  - first:
+      213: -6851910370833482459
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_28
+  - first:
+      213: -3079894202975030290
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_29
+  - first:
+      213: 5236698323155934077
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_30
+  - first:
+      213: -8804733784088618258
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_31
+  - first:
+      213: 5384127207906322308
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_32
+  - first:
+      213: -5454398775423310524
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_33
+  - first:
+      213: 5542475180415008784
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_34
+  - first:
+      213: 1321480955771282782
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_35
+  - first:
+      213: 3733316390757336350
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_36
+  - first:
+      213: 5324921500998602127
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_37
+  - first:
+      213: 7502145407926664258
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_38
+  - first:
+      213: -9191682260864444205
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_39
+  - first:
+      213: 261011837936093945
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_40
+  - first:
+      213: -7245818900848642232
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_41
+  - first:
+      213: 2477597680536885773
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_42
+  - first:
+      213: 4910708422852784194
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_43
+  - first:
+      213: 1909709290819661621
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_44
+  - first:
+      213: -4541725289915588308
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_45
+  - first:
+      213: 8209750375833215169
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_46
+  - first:
+      213: 2775251657272218542
+    second: npc_squid_variant_squidRed_x1_move_png_1354833333_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2761
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53a39196a6e29770800000000000000
+      internalID: 8616202640194511710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2761
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455f7593aeb4fe7f0800000000000000
+      internalID: -581162357551008428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_2
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2761
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076828007053feb40800000000000000
+      internalID: 5471650376468039280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_3
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2761
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9685b39c438305d00800000000000000
+      internalID: 959328519995480169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2510
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b6165ec68349e20800000000000000
+      internalID: 3356369662653852572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_5
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2510
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394e18e3adc785a00800000000000000
+      internalID: 745483015123231891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_6
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2510
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b9a4d5479b741d0800000000000000
+      internalID: -3366518287003641082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_7
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2510
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be78c13494c1b0190800000000000000
+      internalID: -7995265612482050069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2259
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3795ff8efeba479b0800000000000000
+      internalID: -5083249032499865229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_9
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2259
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de9e71a8594ee710800000000000000
+      internalID: 1724396352344858329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_10
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2259
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6d8ff18ea247f20800000000000000
+      internalID: 3419405193538229947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_11
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2259
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f61921872ec491e0800000000000000
+      internalID: -2191900449556588813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2008
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c0f4e30d9156ea0800000000000000
+      internalID: -5880265356273054590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_13
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2008
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db65aad3fbe5fcda0800000000000000
+      internalID: -5922410809502574915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_14
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2008
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fdf066b29edc470800000000000000
+      internalID: 8416639651230506764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_15
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2008
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d569c41be3c3bd600800000000000000
+      internalID: 494054824087426653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1757
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee82eef4faa315030800000000000000
+      internalID: 3481628511568799982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_17
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1757
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f85ed82ab0c9a150800000000000000
+      internalID: 5884446293918374129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_18
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1757
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9348bc07e4d6cfda0800000000000000
+      internalID: -5909728427349670855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_19
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1757
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db6ff072ce285f50800000000000000
+      internalID: 6870292644208012246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1506
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42b6720c2636a380800000000000000
+      internalID: -8960414845959228852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_21
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1506
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80472b2087a84a8e0800000000000000
+      internalID: -1683068112683764728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_22
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1506
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd659b9b0d08c69e0800000000000000
+      internalID: -1626783731430107429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_23
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1506
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407116e67f5599f80800000000000000
+      internalID: -8099347933651986684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7047459e4ace2c10800000000000000
+      internalID: 2030782920851406974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_25
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454dce12bbb8ce290800000000000000
+      internalID: -7859753613824043948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_26
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef37ed3a697f0a30800000000000000
+      internalID: 4183696076062539753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_27
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a156d3780bcf510800000000000000
+      internalID: 1584335263824681540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52db7a912df19e0a0800000000000000
+      internalID: -6851910370833482459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_29
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee373e55a840245d0800000000000000
+      internalID: -3079894202975030290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_30
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bd793316d7ca840800000000000000
+      internalID: 5236698323155934077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_31
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea5489d54d4fc580800000000000000
+      internalID: -8804733784088618258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487a5c45b2348ba40800000000000000
+      internalID: 5384127207906322308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_33
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445619f56351e44b0800000000000000
+      internalID: -5454398775423310524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_34
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0104e01bfc3daec40800000000000000
+      internalID: 5542475180415008784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_35
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55e0328de7d65210800000000000000
+      internalID: 1321480955771282782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e150c393a776fc330800000000000000
+      internalID: 3733316390757336350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_37
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d8cdb74ebe5e940800000000000000
+      internalID: 5324921500998602127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_38
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cfbcc1089fc1860800000000000000
+      internalID: 7502145407926664258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_39
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d85ae0fea5907080800000000000000
+      internalID: -9191682260864444205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa4a5a32ec4f9300800000000000000
+      internalID: 261011837936093945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_41
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847fa14891ea17b90800000000000000
+      internalID: -7245818900848642232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_42
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a9bbca6f1326220800000000000000
+      internalID: 2477597680536885773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_43
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240b8a3ea47562440800000000000000
+      internalID: 4910708422852784194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fa19f5b76a08a10800000000000000
+      internalID: 1909709290819661621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_45
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c216c2379ec88f0c0800000000000000
+      internalID: -4541725289915588308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_46
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c02b2e3874eee170800000000000000
+      internalID: 8209750375833215169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidRed_x1_move_png_1354833333_47
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3560aadaca38620800000000000000
+      internalID: 2775251657272218542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

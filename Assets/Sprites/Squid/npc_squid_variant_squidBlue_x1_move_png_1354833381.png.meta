@@ -1,0 +1,1272 @@
+fileFormatVersion: 2
+guid: 06e1f23f4c81d2d4996b10151f49d33a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2461049351634578131
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_0
+  - first:
+      213: -2051416795193243776
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_1
+  - first:
+      213: -8578458427656958530
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_2
+  - first:
+      213: -2284067596082157311
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_3
+  - first:
+      213: -5291003287236771262
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_4
+  - first:
+      213: 5036600079018245842
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_5
+  - first:
+      213: -3220730628564604396
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_6
+  - first:
+      213: 39904258747883712
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_7
+  - first:
+      213: 7005936903713185474
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_8
+  - first:
+      213: -3381109584544187074
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_9
+  - first:
+      213: -3408056508596108754
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_10
+  - first:
+      213: -6097694736824331039
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_11
+  - first:
+      213: -3675064497004364081
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_12
+  - first:
+      213: 8659206930164482621
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_13
+  - first:
+      213: -8061226048273748753
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_14
+  - first:
+      213: -2149880890856371406
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_15
+  - first:
+      213: 1211197749276494575
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_16
+  - first:
+      213: -6558670773614897006
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_17
+  - first:
+      213: -7668540121875021466
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_18
+  - first:
+      213: -4055820328410200044
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_19
+  - first:
+      213: -386372583674288286
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_20
+  - first:
+      213: -5472594261380416797
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_21
+  - first:
+      213: -9093447916411701680
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_22
+  - first:
+      213: -4415210257003009221
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_23
+  - first:
+      213: 2899634686817398381
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_24
+  - first:
+      213: -7247566992908833483
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_25
+  - first:
+      213: -1638471526377242306
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_26
+  - first:
+      213: 687078667305720299
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_27
+  - first:
+      213: -8600962423164656907
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_28
+  - first:
+      213: 7416116651645773865
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_29
+  - first:
+      213: -8688921574796859345
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_30
+  - first:
+      213: -8533905559397308988
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_31
+  - first:
+      213: -2504949711659310098
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_32
+  - first:
+      213: -1020083187951624839
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_33
+  - first:
+      213: -4218512770142225496
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_34
+  - first:
+      213: 3860184231104655117
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_35
+  - first:
+      213: 5725098702707745173
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_36
+  - first:
+      213: 1855480709132433996
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_37
+  - first:
+      213: -3787946947153375928
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_38
+  - first:
+      213: -3353829408302809447
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_39
+  - first:
+      213: 2460568174915458172
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_40
+  - first:
+      213: 7639890145982274523
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_41
+  - first:
+      213: -5723943074743742194
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_42
+  - first:
+      213: 5166692967604407516
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_43
+  - first:
+      213: -3895911015691412190
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_44
+  - first:
+      213: -260756401303258674
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_45
+  - first:
+      213: -7659441544701877931
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_46
+  - first:
+      213: 3387654738539955990
+    second: npc_squid_variant_squidBlue_x1_move_png_1354833381_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2761
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d259d1567a898ddd0800000000000000
+      internalID: -2461049351634578131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2761
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0878c3c2b47e783e0800000000000000
+      internalID: -2051416795193243776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_2
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2761
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd0d0bb28133f880800000000000000
+      internalID: -8578458427656958530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_3
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2761
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109ea847f9c5d40e0800000000000000
+      internalID: -2284067596082157311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2510
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24204de0b849296b0800000000000000
+      internalID: -5291003287236771262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_5
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2510
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de3699361995e540800000000000000
+      internalID: 5036600079018245842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_6
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2510
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41aaf27be8aad43d0800000000000000
+      internalID: -3220730628564604396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_7
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2510
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c061bf36b4cd8000800000000000000
+      internalID: 39904258747883712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2259
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cedf90be761a3160800000000000000
+      internalID: 7005936903713185474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_9
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2259
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d339a2fb2e311d0800000000000000
+      internalID: -3381109584544187074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_10
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2259
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22cbae79a624b0d0800000000000000
+      internalID: -3408056508596108754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_11
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2259
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e411de91f2a06ba0800000000000000
+      internalID: -6097694736824331039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2008
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fceb761bf4c8ffcc0800000000000000
+      internalID: -3675064497004364081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_13
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2008
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d320e0513deab2870800000000000000
+      internalID: 8659206930164482621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_14
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2008
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec648a8e95c02090800000000000000
+      internalID: -8061226048273748753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_15
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2008
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b0b1768b61a22e0800000000000000
+      internalID: -2149880890856371406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1757
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feac06e8fe90fc010800000000000000
+      internalID: 1211197749276494575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_17
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1757
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29892f34eabeaf4a0800000000000000
+      internalID: -6558670773614897006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_18
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1757
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6610fc9836fd39590800000000000000
+      internalID: -7668540121875021466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_19
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1757
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4184d4466e4d6b7c0800000000000000
+      internalID: -4055820328410200044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1506
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267e427ae2453aaf0800000000000000
+      internalID: -386372583674288286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_21
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1506
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea349aa3807d04b0800000000000000
+      internalID: -5472594261380416797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_22
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1506
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056b3c69c459dc180800000000000000
+      internalID: -9093447916411701680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_23
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1506
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bacaef9a50ab2c0800000000000000
+      internalID: -4415210257003009221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ee62e72629d3820800000000000000
+      internalID: 2899634686817398381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_25
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53da2dd18387b6b90800000000000000
+      internalID: -7247566992908833483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_26
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3141b7e3daf249e0800000000000000
+      internalID: -1638471526377242306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_27
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be99189586ef88900800000000000000
+      internalID: 687078667305720299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2a9c8fe3e33a880800000000000000
+      internalID: -8600962423164656907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_29
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928a43a6dc65be660800000000000000
+      internalID: 7416116651645773865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_30
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2861051ddfba6780800000000000000
+      internalID: -8688921574796859345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_31
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c56469bb1a719980800000000000000
+      internalID: -8533905559397308988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee364505281ac3dd0800000000000000
+      internalID: -2504949711659310098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_33
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d9bc4cebfe7d1f0800000000000000
+      internalID: -1020083187951624839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_34
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab39377cf4d475c0800000000000000
+      internalID: -4218512770142225496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_35
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fae862b11229530800000000000000
+      internalID: 3860184231104655117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591e1feefe2a37f40800000000000000
+      internalID: 5725098702707745173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_37
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4abd6bcfddffb910800000000000000
+      internalID: 1855480709132433996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_38
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dc5ea22528e6bc0800000000000000
+      internalID: -3787946947153375928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_39
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e3ad82cedc471d0800000000000000
+      internalID: -3353829408302809447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74977be7b1b52220800000000000000
+      internalID: 2460568174915458172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_41
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbd7422c97560a60800000000000000
+      internalID: 7639890145982274523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_42
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01975ba9187090b0800000000000000
+      internalID: -5723943074743742194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_43
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcc19531e7c3b740800000000000000
+      internalID: 5166692967604407516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d9e299291fee9c0800000000000000
+      internalID: -3895911015691412190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_45
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9f86f3f6b916cf0800000000000000
+      internalID: -260756401303258674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_46
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551ec2e1f7234b590800000000000000
+      internalID: -7659441544701877931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_squid_variant_squidBlue_x1_move_png_1354833381_47
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617c750490e530f20800000000000000
+      internalID: 3387654738539955990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
